@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Trabalho na COHAB SP na área de suporte técnico
-- 🌱 Estudo Ciências da Computação na FAM
+- 💼 Trabalho na COHAB SP na área de suporte técnico
+- 🎓 Estudo Ciências da Computação na FAM
 
 ##
 
@@ -28,7 +28,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/alex-sandro-maita-junior-990a47262/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexmaitajr21@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alex.maita/" target="_blank"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lekaotv" target="_blank"><img height="35" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexmaitajr21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

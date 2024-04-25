@@ -2,7 +2,7 @@
 
 ##
 
-- 💼 Trabalho na COHAB SP na área de suporte técnico
+- 💼 Trabalhei na COHAB SP na área de suporte técnico e hoje trabalho na Secretaria Municipal de Inovação e Tecnologia (SMIT) como desenvolvedor.
 - 🎓 Estudo Ciências da Computação na FAM
 
 ##
